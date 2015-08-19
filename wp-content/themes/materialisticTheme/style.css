@@ -1,0 +1,37 @@
+.ilike-blue-container {
+@extend .blue, .lighten-4;
+}
+/*
+nav {
+    background-color: #848484 !important;
+    color: #fff;
+    height: 56px;
+    line-height: 56px;
+    width: 100%;
+}
+nav li a:hover{
+    background-color: darkred !important;
+}*/
+
+.FR{
+    float: right;
+}
+.FL{
+    float: left;
+}
+.MT5{margin-top:5px;}
+.MT10{margin-top:10px; }
+.MT15{margin-top:15px; }
+.MT20{margin-top:20px;}
+.MB5{margin-bottom:5px;}
+.MB10{margin-bottom:10px; }
+.MB15{margin-bottom:15px; }
+.MB20{margin-bottom:20px;}
+.MR5{margin-right:5px;}
+.MR10{margin-right:10px; }
+.MR15{margin-right:15px; }
+.MR20{margin-right:20px;}
+.ML5{margin-left:5px;}
+.ML10{margin-left:10px; }
+.ML15{margin-left:15px; }
+.ML20{margin-left:20px;}
